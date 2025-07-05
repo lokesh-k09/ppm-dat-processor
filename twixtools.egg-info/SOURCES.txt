@@ -1,0 +1,14 @@
+pyproject.toml
+twixtools/__init__.py
+twixtools/_version.py
+twixtools/map_twix.py
+twixtools/testall.py
+twixtools/twixcore.py
+twixtools/twixprot.py
+twixtools.egg-info/PKG-INFO
+twixtools.egg-info/SOURCES.txt
+twixtools.egg-info/dependency_links.txt
+twixtools.egg-info/entry_points.txt
+twixtools.egg-info/not-zip-safe
+twixtools.egg-info/requires.txt
+twixtools.egg-info/top_level.txt

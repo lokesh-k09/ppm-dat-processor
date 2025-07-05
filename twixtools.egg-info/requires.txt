@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+setuptools
+tqdm
+
+[test]
+pytest
