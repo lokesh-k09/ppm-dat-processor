@@ -64,7 +64,7 @@ A web application for processing `.dat` files containing time-domain or spectral
 
 ---
 
-## Credits
+
 
 - Developed by [Lokesh K.](https://github.com/lokesh-k09)
 - Uses [`twixtools`](https://github.com/mrirecon/twixtools) for `.dat` file parsing
