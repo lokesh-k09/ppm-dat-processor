@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "E:\\Development\\PPM\\venv\\Scripts\\python.exe",
+  "terminal.integrated.shellArgs.windows": [
+    "-ExecutionPolicy", "Bypass",
+    "-NoExit",
+    "-Command", ".\\venv\\Scripts\\activate"
+  ]
+}
